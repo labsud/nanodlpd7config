@@ -25,14 +25,14 @@
 		"Corrupted": false,
 		"TotalSolidArea": 0,
 		"BlackoutData": "",
-		"LayersCount": 0,
+		"LayersCount": 590,
 		"Processed": false,
-		"Xmin": 0,
-		"Xmax": 0,
-		"Ymin": 0,
-		"Ymax": 0,
+		"Xmin": -6.226033,
+		"Xmax": 15.003173,
+		"Ymin": -21.792885,
+		"Ymax": 6.5230436,
 		"Zmin": 0,
-		"Zmax": 0
+		"Zmax": 59
 	},
 	{
 		"PlateID": 5,
