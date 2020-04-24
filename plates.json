@@ -26,7 +26,7 @@
 		"TotalSolidArea": 0.6520683,
 		"BlackoutData": "",
 		"LayersCount": 200,
-		"Processed": true,
+		"Processed": false,
 		"Xmin": 0,
 		"Xmax": 20,
 		"Ymin": 0,
