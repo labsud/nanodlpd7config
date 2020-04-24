@@ -18,8 +18,10 @@
 		"CureTimes": null,
 		"DynamicThickness": null,
 		"Offset": 0,
-		"OverHangs": null,
-		"Risky": false,
+		"OverHangs": [
+			2
+		],
+		"Risky": true,
 		"IsFaulty": false,
 		"FaultyLayers": null,
 		"Corrupted": false,
