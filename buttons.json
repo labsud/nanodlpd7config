@@ -1,0 +1,20 @@
+[
+	{
+		"ID": 0,
+		"Name": "Mélanger",
+		"Position": "/",
+		"Condition": "idle-obj",
+		"Color": "btn btn-success",
+		"Gcode": "G1 Z10 F600\r\nG1 Z0 F600\r\nG1 Z10 F600\r\nG1 Z0 F600\r\nG1 Z10 F600\r\nG1 Z0 F600\r\nG1 Z10 F600\r\nG1 Z0 F600",
+		"ConfirmText": "C'est mélangé !"
+	},
+	{
+		"ID": 1,
+		"Name": "Relever plateau de 5 cm",
+		"Position": "/",
+		"Condition": "idle-obj",
+		"Color": "btn btn-success",
+		"Gcode": "",
+		"ConfirmText": ""
+	}
+]

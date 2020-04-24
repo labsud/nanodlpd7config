@@ -1,0 +1,43 @@
+{
+	"ProfileID": 3,
+	"Type": "old",
+	"Depth": 3,
+	"BlockHeight": 15,
+	"BlockWidth": 15,
+	"BaseHeight": 3,
+	"BaseWidth": 3.3,
+	"Padding": 1,
+	"CureTimes": "2,2.5,3,3.5,4,4.5,5,5.5,6,6.5,7,7.5,8,8.5,9,9.5",
+	"PillarDia": "0.1,0.2",
+	"R": 255,
+	"G": 255,
+	"B": 255,
+	"Width": 1440,
+	"Height": 2560,
+	"PlateWidth": 67.7808,
+	"PlateHeight": 120.4992,
+	"PixelSize": 21.244954323348203,
+	"Cures": [
+		2,
+		2.5,
+		3,
+		3.5,
+		4,
+		4.5,
+		5,
+		5.5,
+		6,
+		6.5,
+		7,
+		7.5,
+		8,
+		8.5,
+		9,
+		9.5,
+		12
+	],
+	"Columns": [
+		0.1,
+		0.2
+	]
+}
