@@ -22,8 +22,8 @@
 		"SupportTopWait": 2,
 		"SupportWaitHeight": 5,
 		"SupportLayerNumber": 5,
-		"SupportCureTime": 10,
-		"SupportDepth": 100,
+		"SupportCureTime": 20,
+		"SupportDepth": 50,
 		"SupportWaitBeforePrint": 2,
 		"SupportWaitAfterPrint": 1,
 		"LowQualityCureTime": 0,
@@ -58,6 +58,6 @@
 		"ShieldResume": "",
 		"ShieldFinish": "",
 		"LaserCode": "",
-		"Updated": 1587575076
+		"Updated": 1587722698
 	}
 ]
