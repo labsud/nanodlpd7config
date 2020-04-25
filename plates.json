@@ -23,7 +23,7 @@
 		"IsFaulty": false,
 		"FaultyLayers": null,
 		"Corrupted": false,
-		"TotalSolidArea": 0,
+		"TotalSolidArea": 0.6165906,
 		"BlackoutData": "",
 		"LayersCount": 796,
 		"Processed": false,
