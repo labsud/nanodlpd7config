@@ -39,7 +39,7 @@
 	"ShieldType": 1,
 	"ShieldEncoding": 0,
 	"ShieldI2CAddress": 0,
-	"ShieldUSBAddress": "/dev/ttyACM0",
+	"ShieldUSBAddress": "/dev/ttyACM1",
 	"ShieldSpeed": 115200,
 	"ShieldBootup": "M107",
 	"ShieldStart": "M107\r\nG90\r\nG28 F400 P1\r\n[[WaitForDoneMessage]]\r\nG92 Z0\r\n[[PositionSet 0]]\r\nG1 Z20 F400\r\nG1 Z0 F400\r\nG1 Z20 F400\r\nG1 Z0 F400\r\nG1 Z20 F400\r\nG1 Z0 F400\r\nG1 Z20 F400\r\nG1 Z0 F400\r\nG1 Z20 F400\r\nG1 Z0 F400\r\nM17",
